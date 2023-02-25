@@ -2,14 +2,14 @@
 
 <center>Lishuang Zhan<sup>1</sup>, Yancheng Cao<sup>1</sup>, Qitai Chen<sup>1</sup>, Haole Guo<sup>1</sup>,
 Jiasi Gao<sup>1</sup>, Yiyue Luo<sup>2</sup>, Shihui Guo<sup>3</sup>, Guyue Zhou<sup>1</sup> and Jiangtao Gong<sup>1</sup></center>
-
+<br />
+<br />
 <center>
-<font size=1><sup>1</sup> Institute for AI Industry Research (AIR), Tsinghua University.</font>
-
-<font size=1><sup>2</sup> Computer Science and Artificial Intelligence Laboratory (CSAIL), Massachusetts Institute of Technology.</font>
-
-<font size=1><sup>3</sup> School of Informatics, Xiamen University.</font>
+<font size=1><sup>1</sup> Institute for AI Industry Research (AIR), Tsinghua University.</font><br />
+<font size=1><sup>2</sup> Computer Science and Artificial Intelligence Laboratory (CSAIL), Massachusetts Institute of Technology.</font><br />
+<font size=1><sup>3</sup> School of Informatics, Xiamen University.</font><br />
 </center>
+<br />
 
 Touch is an important channel for human-robot interaction, while it is challenging for robots to recognize human touch accurately and make appropriate responses.
 In this paper, we design and implement a set of large-format distributed flexible pressure sensors on a robot dog to enable natural human-robot tactile interaction. 
